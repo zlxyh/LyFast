@@ -6,7 +6,7 @@ appkey配置
 appSecret配置  
 `lyfast.appSecret: xxxxx`  
 aeskey配置  
-`lyfast.aesKey: xxxxx`
+`lyfast.aesKey: xxxxx`  
 ![img.png](img.png)
 
 ## 使用方式
